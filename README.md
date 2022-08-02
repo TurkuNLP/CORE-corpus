@@ -6,6 +6,8 @@ This corpus is based on the Corpus of Online Registers of English described and 
 
 The files are formatted in a simple .tsv format, where the first column indicates the register label(s), the second one the CORE document id and the third one the text.
 
+The register label abbreviations used in the files are described in register_label_abbreviations.txt.
+
 CORE was originally compiled by Douglas Biber, Jesse Egbert and Mark Davies. The compilation process and the registers are described in the following publications:
 - Douglas Biber and Jesse Egbert (2018). Register variation online. Cambridge University Press, Cambridge
 - Jesse Egbert, Douglas Biber and Mark Davies (2015). Developing a bottom-up, user-based method of web register classification. Journal of the Association for Information Science and Technology, 66:1817–1831.
