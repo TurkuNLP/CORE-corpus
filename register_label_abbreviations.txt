@@ -1,0 +1,56 @@
+AD	advertisement
+AV	advice
+CM	course materials
+DF	discussion forum
+DP	description of a person
+DS	description with intent to sell
+DT	description of a thing
+ED	editorial
+EN	encyclopedia article
+FH	FAQ about how-to
+FI	FAQ about information
+FS	formal speech
+HA	historical article
+HI	how-to instructional
+HT	how-to
+IB	information blog
+ID	interactive discussion
+IN	informational description / explanation
+IP	informational persuasion
+IT	interview
+LE	letter to the editor
+LT	legal terms and conditions
+LY	lyrical
+MA	magazine article
+NA	narrative
+NE	news report / blog
+OB	opinion blog 
+OE	other informational persuasion
+OF	other interactive discussion
+OH	other how-to / instructional
+OI	other informational description / explanation
+OL	other lyrical
+ON	other narrative
+OO	other opinion
+OP	opinion
+OS	other spoken
+OTHER	no labels
+PA	persuasive article or essay
+PB	personal blog
+PO	poem
+PR	prayer
+QA	question/answer forum
+RA	research article
+RE	recipe
+RR	reader/viewer responses
+RS	religious blogs / sermons
+RV	review
+SL	song lyric
+SP	spoken
+SR	sports report
+SS	short story
+TA	transcript of video / audio
+TB	travel blog
+TR	technical report
+TS	technical support
+TV	TV/movie script
