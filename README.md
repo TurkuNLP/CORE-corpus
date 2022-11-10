@@ -1,6 +1,6 @@
 # Corpus of Online Registers of English (CORE)
 
-his corpus is based on the Corpus of Online Registers of English (CORE) originally designed and compiled by Biber et al. (see citations below).
+This corpus is based on the Corpus of Online Registers of English (CORE) originally designed and compiled by Biber et al. (see citations below).
 This version of CORE was used to model register variation in the following study:
 
 - Veronika Laippala, Samuel Rönnqvist, Miika Oinonen, Aki-Juhani Kyröläinen, Anna Salmela, Douglas Biber, Jesse Egbert and Sampo Pyysalo (in review): Register identification from the unrestricted open Web using the Corpus of Online Registers of English.
